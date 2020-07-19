@@ -1,2 +1,2 @@
 # hello-worldd
-All ideas from here
+All ideas start from here
